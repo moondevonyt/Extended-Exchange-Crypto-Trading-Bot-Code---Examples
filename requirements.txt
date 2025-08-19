@@ -1,0 +1,5 @@
+requests
+python-dotenv
+websocket-client
+x10-perpetual-client
+eth-account
